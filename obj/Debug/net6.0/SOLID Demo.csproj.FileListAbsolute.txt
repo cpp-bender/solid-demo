@@ -1,0 +1,14 @@
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\bin\Debug\net6.0\SOLID Demo.exe
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\bin\Debug\net6.0\SOLID Demo.deps.json
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\bin\Debug\net6.0\SOLID Demo.runtimeconfig.json
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\bin\Debug\net6.0\SOLID Demo.dll
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\bin\Debug\net6.0\SOLID Demo.pdb
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.AssemblyInfoInputs.cache
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.AssemblyInfo.cs
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.dll
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\refint\SOLID Demo.dll
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.pdb
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\SOLID Demo.genruntimeconfig.cache
+C:\Users\Ahmet Altioglu\OneDrive\Desktop\Software Engineering\C#\SOLID Demo\obj\Debug\net6.0\ref\SOLID Demo.dll
